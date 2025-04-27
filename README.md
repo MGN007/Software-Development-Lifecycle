@@ -1,1 +1,8 @@
-# Software-Development-Lifecycle
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+I interpret user needs by first listening carefully to stakeholders and identifying the core problems they are trying to solve, not just the features they request. I focus on asking clarifying questions and creating user stories that describe functionality from the user's point of view. Writing user stories helps break complex needs into smaller, understandable tasks, ensuring that development stays user-centered. It also provides a clear definition of success for each piece of functionality.
+
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+When developing programs, I use an iterative approach, starting with simple prototypes and refining them through continuous feedback. I break work into small, manageable tasks, prioritize based on user value, and focus on delivering working software early and often. In my future work, I plan to continue using Agile processes such as Scrum, including sprint planning, daily stand-ups, and retrospectives. I also want to incorporate backlog grooming and regular user feedback sessions to ensure the final product truly meets user needs.
+
+What does it mean to be a good team member in software development?
+Being a good team member means communicating openly, respecting different perspectives, and always being willing to collaborate and support others. It requires staying accountable for your work, being adaptable to changes, and helping the team stay focused on shared goals. A good team member also provides constructive feedback and is committed to continuous improvement — both personally and for the whole team.
